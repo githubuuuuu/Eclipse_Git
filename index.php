@@ -1,2 +1,2 @@
 <?php
-ehco "Hello GitHub";
+echo "Hello GitHub";
