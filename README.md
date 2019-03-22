@@ -8,4 +8,3 @@
 
 ## Code List
 * git > master
-* git > branch
