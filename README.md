@@ -7,5 +7,4 @@
 * Clone with HTTPS 	: https://github.com/githubuuuuu/GitStudy.git
 
 ## Code List
-* git > master
 * git > branch : 190322
