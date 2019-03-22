@@ -9,3 +9,4 @@
 ## Code List
 * git > master
 * 820 push to github
+* 820 pull from github
