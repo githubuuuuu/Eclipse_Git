@@ -10,4 +10,5 @@
 * git > branch : 190322
 * test 1
 * test 2
-* test 3 lt-pc-829
+* test 3 lt-pc-829 push github
+* test 4 lt-pc-829 pull github
